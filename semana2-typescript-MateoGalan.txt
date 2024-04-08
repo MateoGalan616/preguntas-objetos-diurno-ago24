@@ -1,0 +1,9 @@
+¿Cuál es la ventaja principal de utilizar TypeScript sobre JavaScript puro?
+
+A. ¿Su capacidad para manejar errores de manera más efectiva?
+
+B. ¿La posibilidad de definir tipos estáticos para variables y funciones?
+
+C. ¿Su integración nativa con bibliotecas de terceros?
+
+ANSWER: B
