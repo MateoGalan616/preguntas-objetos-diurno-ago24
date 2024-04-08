@@ -1,9 +1,0 @@
-¿Cuál es la principal diferencia entre React y JavaScript puro para la construcción de interfaces de usuario?
-
-A. ¿React utiliza un paradigma de programación funcional mientras que JavaScript puro se basa en la programación orientada a objetos?
-
-B. ¿React utiliza un enfoque basado en componentes reutilizables mientras que JavaScript puro utiliza manipulación directa del DOM?
-
-C. ¿React proporciona una sintaxis más simplificada para la escritura de código en comparación con JavaScript puro?
-
-ANSWER: B
